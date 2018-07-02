@@ -1,0 +1,22 @@
+C:\Users\Eric\Desktop\AREA\bin\Debug\netcoreapp2.0\AREA.deps.json
+C:\Users\Eric\Desktop\AREA\bin\Debug\netcoreapp2.0\AREA.runtimeconfig.json
+C:\Users\Eric\Desktop\AREA\bin\Debug\netcoreapp2.0\AREA.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\AREA\bin\Debug\netcoreapp2.0\AREA.dll
+C:\Users\Eric\Desktop\AREA\bin\Debug\netcoreapp2.0\AREA.pdb
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.AssemblyInfo.cs
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.dll
+C:\Users\Eric\Desktop\AREA\obj\Debug\netcoreapp2.0\AREA.pdb
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\bin\Debug\netcoreapp2.0\AREA.deps.json
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\bin\Debug\netcoreapp2.0\AREA.runtimeconfig.json
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\bin\Debug\netcoreapp2.0\AREA.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\bin\Debug\netcoreapp2.0\AREA.dll
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\bin\Debug\netcoreapp2.0\AREA.pdb
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.AssemblyInfo.cs
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.dll
+C:\Users\Eric\Desktop\AREA AND PERIMETER OF SHAPES\obj\Debug\netcoreapp2.0\AREA.pdb
